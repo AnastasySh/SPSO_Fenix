@@ -180,72 +180,63 @@ span.amp {
 FONT FACE (IN YOUR FACE)
 *********************/
 @font-face {
-  font-family: 'ApercuBold';
-  src: url("../fonts/apercu-bold-webfont.eot");
-  src: url("../fonts/apercu-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-bold-webfont.svg#ApercuBold") format("svg"), url("../fonts/apercu-bold-webfont.woff") format("woff"), url("../fonts/apercu-bold-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansBold';
+  src: url("../fonts/alegreyasans-bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuBoldItalic';
-  src: url("../fonts/apercu-bolditalic-webfont.eot");
-  src: url("../fonts/apercu-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-bolditalic-webfont.svg#ApercuBoldItalic") format("svg"), url("../fonts/apercu-bolditalic-webfont.woff") format("woff"), url("../fonts/apercu-bolditalic-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansBoldItalic';
+  src: url("../fonts/alegreyasans-bolditalic.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuItalic';
-  src: url("../fonts/apercu-italic-webfont.eot");
-  src: url("../fonts/apercu-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-italic-webfont.svg#ApercuItalic") format("svg"), url("../fonts/apercu-italic-webfont.woff") format("woff"), url("../fonts/apercu-italic-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansItalic';
+  src: url("../fonts/alegreyasans-italic.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuLight';
-  src: url("../fonts/apercu-light-webfont.eot");
-  src: url("../fonts/apercu-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-light-webfont.svg#ApercuLight") format("svg"), url("../fonts/apercu-light-webfont.woff") format("woff"), url("../fonts/apercu-light-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansLight';
+  src: url("../fonts/alegreyasans-light.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuLightItalic';
-  src: url("../fonts/apercu-lightitalic-webfont.eot");
-  src: url("../fonts/apercu-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-lightitalic-webfont.svg#ApercuLightItalic") format("svg"), url("../fonts/apercu-lightitalic-webfont.woff") format("woff"), url("../fonts/apercu-lightitalic-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansLightItalic';
+  src: url("../fonts/alegreyasans-lightitalic.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuMedium';
-  src: url("../fonts/apercu-medium-webfont.eot");
-  src: url("../fonts/apercu-medium-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-medium-webfont.svg#ApercuMedium") format("svg"), url("../fonts/apercu-medium-webfont.woff") format("woff"), url("../fonts/apercu-medium-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansMedium';
+  src: url("../fonts/alegreyasans-medium.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuMediumItalic';
-  src: url("../fonts/apercu-mediumitalic-webfont.eot");
-  src: url("../fonts/apercu-mediumitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-mediumitalic-webfont.svg#ApercuMediumItalic") format("svg"), url("../fonts/apercu-mediumitalic-webfont.woff") format("woff"), url("../fonts/apercu-mediumitalic-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansMediumItalic';
+  src: url("../fonts/alegreyasans-mediumitalic.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuMono';
-  src: url("../fonts/apercu-mono-webfont.eot");
-  src: url("../fonts/apercu-mono-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-mono-webfont.svg#ApercuMono") format("svg"), url("../fonts/apercu-mono-webfont.woff") format("woff"), url("../fonts/apercu-mono-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansThin';
+  src: url("../fonts/alegreyasans-thin.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
-  font-family: 'ApercuRegular';
-  src: url("../fonts/apercu-regular-webfont.eot");
-  src: url("../fonts/apercu-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/apercu-regular-webfont.svg#ApercuRegular") format("svg"), url("../fonts/apercu-regular-webfont.woff") format("woff"), url("../fonts/apercu-regular-webfont.ttf") format("truetype");
+  font-family: 'AlegreyaSansRegular';
+  src: url("../fonts/alegreyasans-regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon.eot?6l5p4f");
-  src: url("../fonts/icomoon.eot?6l5p4f#iefix") format("embedded-opentype"), url("../fonts/icomoon.woff2?6l5p4f") format("woff2"), url("../fonts/icomoon.ttf?6l5p4f") format("truetype"), url(".../fonts/icomoon.woff?6l5p4f") format("woff"), url("../fonts/icomoon.svg?6l5p4f#icomoon") format("svg");
+  src: url("../fonts/icomoon.eot?6l5p4f#iefix") format("embedded-opentype"), url("../fonts/icomoon.ttf?6l5p4f") format("truetype"), url("../fonts/icomoon.woff?6l5p4f") format("woff"), url("../fonts/icomoon.svg?6l5p4f#icomoon") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -257,7 +248,6 @@ FONT FACE (IN YOUR FACE)
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -398,7 +388,6 @@ p {
     padding: 0 15px;
     width: 75%; } }
 
-/* Portrait tablet to landscape */
 @media (min-width: 768px) and (max-width: 1029px) {
   .t-hidden {
     display: none; }
@@ -468,7 +457,6 @@ p {
     padding: 0 15px;
     width: 85.7142857%; } }
 
-/* Landscape to small desktop */
 @media (min-width: 1030px) {
   .d-hidden {
     display: none; }
@@ -563,7 +551,6 @@ p {
 
 .cta-btn, .cta-btn-form {
   background-color: #fc766a ;
-  font-weight:bold;
   font-size: 14px;
   text-align: left;
   position: relative;
@@ -594,7 +581,6 @@ p {
   text-indent: -9999px;
   appearance: none;
   box-shadow: none;
-  border-radius: none;
   border: none;
   cursor: pointer;
   transition: background 0.3s;
@@ -694,6 +680,41 @@ textarea,
   -o-transition: background-color 0.24s ease-in-out;
   -webkit-transition: background-color 0.24s ease-in-out;
   transition: background-color 0.24s ease-in-out; }
+
+.logotype, .footer-wrap .logotype {
+position: fixed;
+right: 0;
+bottom: 0;
+left: auto; }
+
+.footer-wrap .logotype {
+z-index: 2;
+padding: 20px 18px; }
+
+.mobile-intro .logotype {
+position: fixed;
+right: 0;
+bottom: 0;
+left: auto;
+z-index: 60;
+font-size: 140px;
+padding: 0px 20px;
+opacity: 0;
+-moz-opacity: 0;
+-khtml-opacity: 0;
+filter: alpha(opacity=0);
+-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;¶
+transition: opacity 0.35s; }
+
+.scrolltop .mobile-intro .logotype {
+opacity: 1;
+-moz-opacity: 1;
+-khtml-opacity: 1;
+filter: alpha(opacity=1);
+-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;¶
+transition: opacity 0.35s; }
+
+  
 input[type="text"]:focus, input[type="text"]:active,
 input[type="password"]:focus,
 input[type="password"]:active,
@@ -933,7 +954,7 @@ select {
 GENERAL STYLES
 *********************/
 body {
-  font-family: "ApercuRegular", Helvetica, Arial, sans-serif;
+  font-family: "AlegreyaSansMedium", Helvetica, Arial, sans-serif;
   font-size: 100%;
   color: #fff;
   background-color: #000;
@@ -1224,6 +1245,12 @@ main .last {
   -moz-opacity: 1;
   -khtml-opacity: 1;
   filter: alpha(opacity=1); }
+
+/*********************
+SERVICES STYLES
+*********************/
+.bottom .header-tagline-wrap {
+  display: none; }
 
 /*********************
 CONTACT PAGE STYLES
@@ -1839,9 +1866,7 @@ SIDEBAR NAV STYLES
 .nav-btn-wrap .icon-MenuIcon {
   font-size: 20px; }
 
-/*TblKBA GOO*/
-
-.side-nav .stroke, .side-nav .status-text, .side-nav .logotype .svg-icon-DeRepublicaVertical, .footer-wrap .logotype .svg-icon-DeRepublicaVertical {
+.side-nav .status-text {
   opacity: 0;
   -moz-opacity: 0;
   -khtml-opacity: 0;
@@ -1850,58 +1875,6 @@ SIDEBAR NAV STYLES
   -o-transition: margin-top 0.2s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.2s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.2s linear 0.3s;
   -webkit-transition: margin-top 0.2s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.2s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.2s linear 0.3s;
   transition: margin-top 0.2s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.2s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.2s linear 0.3s; }
-
-.open .side-nav .logotype .svg-icon-DeRepublicaVertical, .bottom .footer-wrap .logotype .svg-icon-DeRepublicaVertical {
-  opacity: 1;
-  -moz-opacity: 1;
-  -khtml-opacity: 1;
-  filter: alpha(opacity=1);
-  -moz-transition: margin-top 0.1s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.1s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.1s linear 0.1s;
-  -o-transition: margin-top 0.1s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.1s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.1s linear 0.1s;
-  -webkit-transition: margin-top 0.1s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.1s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.1s linear 0.1s;
-  transition: margin-top 0.1s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 0.1s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.1s linear 0.1s; }
-
-.logotype, .footer-wrap .logotype {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  left: auto; }
-
-.footer-wrap .logotype {
-  z-index: 2;
-  padding: 20px 18px; }
-
-.mobile-intro .logotype {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  left: auto;
-  z-index: 60;
-  font-size: 140px;
-  padding: 0px 20px;
-  opacity: 0;
-  -moz-opacity: 0;
-  -khtml-opacity: 0;
-  filter: alpha(opacity=0);
-  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s; }
-
-.scrolltop .mobile-intro .logotype {
-  opacity: 1;
-  -moz-opacity: 1;
-  -khtml-opacity: 1;
-  filter: alpha(opacity=1);
-  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s; }
-
-.vidspace .logotype .svg-icon-DeRepublicaVertical, .footer-wrap .logotype .svg-icon-DeRepublicaVertical img {
-  width: 25px;
-  height: auto; }
-
-.vidspace .logotype {
-  right: 0;
-  left: auto;
-  position: fixed; }
 
 .side-nav .status-text {
   height: 420px;
@@ -2076,10 +2049,7 @@ NAVIGATION STYLES
 *********************/
 .nav {
   border-bottom: 0;
-  margin: 0;
-  /* end .menu li */
-  /* highlight current page */
-  /* end current highlighters */ }
+  margin: 0;}
   .nav li a {
     display: block;
     color: #fff;
@@ -2088,186 +2058,17 @@ NAVIGATION STYLES
   .nav li ul.sub-menu li a,
   .nav li ul.children li a {
     padding-left: 30px; }
-
-/* end .nav */
 /*********************
 POSTS & CONTENT STYLES
 *********************/
 #content {
   margin-top: 1.5em; }
 
-.hentry header {
-  border-bottom: 1px solid #f8f9fa;
-  padding: 1.5em; }
-
-.hentry footer {
-  padding: 1.5em;
-  border-top: 1px solid #f8f9fa; }
-  .hentry footer p {
-    margin: 0; }
-
-/* end .hentry */
 .single-title,
 .page-title,
 .entry-title {
   margin: 0; }
 
-/* want to style individual post classes? Booya! */
-/* post by id (i.e. post-3) */
-/* general post style */
-/* general article on a page style */
-/* general style on an attatchment */
-/* sticky post style */
-/* hentry class */
-/* style by category (i.e. category-videos) */
-/* style by tag (i.e. tag-news) */
-/* post meta */
-.byline {
-  color: #9fa6b4;
-  font-style: italic;
-  margin: 0; }
-
-/* entry content */
-.entry-content {
-  padding: 1.5em 1.5em 0;
-  /*
-			image alignment on a screen this size may be
-			a bit difficult. It's set to start aligning
-			and floating images at the next breakpoint,
-			but it's up to you. Feel free to change it up.
-			*/ }
-  .entry-content p {
-    margin: 0 0 1.5em; }
-  .entry-content table {
-    width: 100%;
-    border: 1px solid #eaedf2;
-    margin-bottom: 1.5em; }
-    .entry-content table caption {
-      margin: 0 0 7px;
-      font-size: 0.75em;
-      color: #9fa6b4;
-      text-transform: uppercase;
-      letter-spacing: 1px; }
-  .entry-content tr {
-    border-bottom: 1px solid #eaedf2; }
-    .entry-content tr:nth-child(even) {
-      background-color: #f8f9fa; }
-  .entry-content td {
-    padding: 7px;
-    border-right: 1px solid #eaedf2; }
-    .entry-content td:last-child {
-      border-right: 0; }
-  .entry-content th {
-    background-color: #f8f9fa;
-    border-bottom: 1px solid #eaedf2;
-    border-right: 1px solid #eaedf2; }
-    .entry-content th:last-child {
-      border-right: 0; }
-  .entry-content blockquote {
-    margin: 0 0 1.5em 0.75em;
-    padding: 0 0 0 0.75em;
-    border-left: 3px solid #2980b9;
-    font-style: italic;
-    color: #9fa6b4; }
-  .entry-content dd {
-    margin-left: 0;
-    font-size: 0.9em;
-    color: #787878;
-    margin-bottom: 1.5em; }
-  .entry-content img {
-    margin: 0 0 1.5em 0;
-    max-width: 100%;
-    height: auto; }
-  .entry-content .size-auto,
-  .entry-content .size-full,
-  .entry-content .size-large,
-  .entry-content .size-medium,
-  .entry-content .size-thumbnail {
-    max-width: 100%;
-    height: auto; }
-  .entry-content pre {
-    background: #000000;
-    color: #f8f9fa;
-    font-size: 0.9em;
-    padding: 1.5em;
-    margin: 0 0 1.5em;
-    border-radius: 3px; }
-
-/* end .entry-content */
-.wp-caption {
-  max-width: 100%;
-  background: #eee;
-  padding: 5px;
-  /* images inside wp-caption */ }
-  .wp-caption img {
-    max-width: 100%;
-    margin-bottom: 0;
-    width: 100%; }
-  .wp-caption p.wp-caption-text {
-    font-size: 0.85em;
-    margin: 4px 0 7px;
-    text-align: center; }
-
-/* end .wp-caption */
-/* image gallery styles */
-/* end .gallery */
-/* gallery caption styles */
-.tags {
-  margin: 0; }
-
-/******************************************************************
-PAGE NAVI STYLES
-******************************************************************/
-.pagination,
-.wp-prev-next {
-  margin: 1.5em 0; }
-
-.pagination {
-  text-align: center; }
-  .pagination ul {
-    display: inline-block;
-    background-color: #fff;
-    white-space: nowrap;
-    padding: 0;
-    clear: both;
-    border-radius: 3px; }
-  .pagination li {
-    padding: 0;
-    margin: 0;
-    float: left;
-    display: inline;
-    overflow: hidden;
-    border-right: 1px solid #eaedf2; }
-  .pagination a, .pagination span {
-    margin: 0;
-    text-decoration: none;
-    padding: 0;
-    line-height: 1em;
-    font-size: 1em;
-    font-weight: normal;
-    padding: 0.75em;
-    min-width: 1em;
-    display: block;
-    color: #2980b9; }
-    .pagination a:hover, .pagination a:focus, .pagination span:hover, .pagination span:focus {
-      background-color: #2980b9;
-      color: #fff; }
-  .pagination .current {
-    cursor: default;
-    color: #fff; }
-    .pagination .current:hover, .pagination .current:focus {
-      background-color: #fff;
-      color: #fff; }
-
-/* end .bones_page_navi */
-/* fallback previous & next links */
-.wp-prev-next .prev-link {
-  float: left; }
-
-.wp-prev-next .next-link {
-  float: right; }
-
-/* end .wp-prev-next */
 /*********************
 FOOTER STYLES
 *********************/
@@ -2276,16 +2077,6 @@ FOOTER STYLES
   background-color: #000000;
   color: #f8f9fa; }
 
-/*
-	if you checked out the link above:
-	http://www.alistapart.com/articles/organizing-mobile/
-	you'll want to style the footer nav
-	a bit more in-depth. Remember to keep
-	it simple because you'll have to
-	override these styles for the desktop
-	view.
-	*/
-/* end .footer-links */
 @media only screen and (max-width: 374px) {
   .header-main h4 {
     display: none; }
@@ -2296,19 +2087,10 @@ FOOTER STYLES
 
 /*********************
 LARGER MOBILE DEVICES
-This is for devices like the Galaxy Note or something that's
-larger than an iPhone but smaller than a tablet. Let's call them
-tweeners.
 *********************/
 @media only screen and (min-width: 481px) {
-  /******************************************************************
-Site Name:
-Author:
 
-Stylesheet: 481px and Up Stylesheet
-
-******************************************************************/
-  /*********************
+/*********************
 THUMBNAIL STYLES
 *********************/
   .thumbnail-img-place {
@@ -2351,108 +2133,33 @@ SERVICES STYLES
     display: none; }
   .page-template-page-contact a.form-link {
     display: inline-block; }
+
   /*********************
 PROJECT PAGE STYLES
 *********************/
-  .content .image-gallery-inner {
-    padding: 0 15px;
-    float: left;
-    width: 100%; }
-  .row-1 {
-    width: 100%;
-    max-width: 870px;
-    margin: 0 auto; }
-  .row-2 {
-    width: 100%;
-    max-width: 870px;
-    margin: 0 auto; }
-  .image-gallery img {
-    width: 100%;
-    height: auto; }
-  .image-gallery .m-all, .image-gallery .t-all, .image-gallery .d-all, .image-gallery .t-1of2, .image-gallery .d-1of2 {
-    padding: 15px; }
+
   .intro-copy-inner {
     width: 95%;
     max-width: 400px;
     margin: 0 auto; }
   .single-directors .intro-copy-inner {
     padding: 0 20px 0 0px; }
-  .perspective-iphone .device-wrap {
-    float: left;
-    width: 100%;
-    height: 340px;
-    position: relative;
-    background: #fff; }
-  .perspective-iphone .device-wrap .viewport {
-    width: 260px;
-    height: 167px;
-    margin: 0 auto; }
-  .perspective-iphone .device-wrap .viewport-wrap {
-    width: 100%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    top: 50%;
-    position: absolute;
-    left: 0; }
-  .perspective-iphone .device-wrap .device-overlay {
-    background: url("/wp-content/themes/derepublica/library/images/devices/iphone-perspectiveX2.png") no-repeat;
-    width: 100%;
-    height: 340px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 5;
-    background-position: center center;
-    background-size: 580px 504px; }
+
   /*********************
 NAVIGATION STYLES
 *********************/
-  /* .menu is clearfixed inside mixins.scss */
-  .menu {
-    /* end .menu ul */ }
-    .menu ul {
-      /* end .menu ul li */
-      /* highlight current page */
-      /* end current highlighters */ }
-      .menu ul li {
-        /*
-				plan your menus and drop-downs wisely.
-				*/ }
+  .menu {}
+    .menu ul {}
+      .menu ul li {}
         .menu ul li a {
-          /*
-					you can use hover styles here even though this size
-					has the possibility of being a mobile device.
-					*/ }
-  /* end .menu */
+          }
+
   /*********************
 SIDEBAR NAV STYLES
 *********************/
   .header-tagline-wrap h2 {
     font-size: 1.6em; }
-  .sidebar-bg {
-    background: #000;
-    opacity: 0;
-    -moz-opacity: 0;
-    -khtml-opacity: 0;
-    filter: alpha(opacity=0);
-    position: fixed;
-    left: 0;
-    top: 0;
-    z-index: 40;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: opacity .8s ease-in-out .2s;
-    pointer-events: none; }
-  .open .sidebar-bg {
-    display: block;
-    pointer-events: all;
-    opacity: 0.4;
-    -moz-opacity: 0.4;
-    -khtml-opacity: 0.4;
-    filter: alpha(opacity=0.4);
-    transition: opacity .6s ease-in-out 0ms; }
+
   .icon-logo {
     position: fixed;
     left: 30px;
@@ -2477,20 +2184,7 @@ SIDEBAR NAV STYLES
     position: fixed;
     right: 0;
     z-index: 103; }
-  .nav-btn-wrap .icon-MenuIcon {
-    font-size: 20px; }
-  .logotype {
-    bottom: 0;
-    left: 0;
-    position: absolute;
-    padding: 34px 30px;
-    z-index: 50; }
-  .stroke {
-    margin: 20px 12px;
-    background: #ffffff;
-    width: 2px;
-    padding: 20px 0;
-    display: block; }
+
   .open .main-menu {
     width: 333px;
     overflow: hidden;
@@ -2640,53 +2334,17 @@ SIDEBAR NAV STYLES
     -moz-opacity: 1;
     -khtml-opacity: 1;
     filter: alpha(opacity=1); }
-  /*********************
-POSTS & CONTENT STYLES
-*********************/
-  /* entry content */
-  .entry-content {
-    /* at this larger size, we can start to align images */ }
-    .entry-content .alignleft, .entry-content img.alignleft {
-      margin-right: 1.5em;
-      display: inline;
-      float: left; }
-    .entry-content .alignright, .entry-content img.alignright {
-      margin-left: 1.5em;
-      display: inline;
-      float: right; }
-    .entry-content .aligncenter, .entry-content img.aligncenter {
-      margin-right: auto;
-      margin-left: auto;
-      display: block;
-      clear: both; }
-  /* end .entry-content */ }
-
+}
 /*********************
 TABLET & SMALLER LAPTOPS
-This is the average viewing window. So Desktops, Laptops, and
-in general anyone not viewing on a mobile device. Here's where
-you can add resource intensive styles.
 *********************/
 @media only screen and (min-width: 768px) {
-  /******************************************************************
-Site Name:
-Author:
 
-Stylesheet: Tablet & Small Desktop Stylesheet
-
-Here's where you can start getting into the good stuff.
-This size will work on iPads, other tablets, and desktops.
-So you can start working with more styles, background images,
-and other resources. You'll also notice the grid starts to
-come into play. Have fun!
-
-******************************************************************/
-  /*********************
+ /*********************
 LAYOUT & GRID STYLES
 *********************/
-  .wrap {
-    width: 760px; }
-  .content section header h2, .full-width-title header, .project-call-to-action header {
+
+  .content section header h2 {
     max-width: 830px;
     margin: 75px auto;
     text-align: center;
@@ -2697,20 +2355,7 @@ LAYOUT & GRID STYLES
     float: left;
     width: 100%;
     padding-right: 90px; }
-  .clients span {
-    width: 180px;
-    padding: 0px;
-    text-align: center; }
-  .clients .client-grid img {
-    width: 180px;
-    height: 180px; }
-  .content section.image-gallery {
-    padding-right: 90px;
-    line-height: 0; }
-  .services-list .services-grid .row {
-    float: none; }
-  .services-list .services-grid {
-    padding: 50px 15px 50px 15px; }
+
   /*********************
 HEADER STYLES
 *********************/
@@ -2726,313 +2371,16 @@ HEADER STYLES
     display: block;
     width: 58px;
     height: 44px; }
-  /*********************
-PAGE STYLES
-*********************/
-  .page-template .content .row-1 {
-    padding: 0 30px; }
-  .page-template .content section.full-width-title header {
-    margin: 0px auto; }
-  .page-template .content .full-width-title h4 {
-    font-size: 1.5em; }
-  .page-template .content .full-width-title p {
-    font-size: 1.5em; }
-  .page-template .content .full-width-title ul {
-    font-size: 1.5em;
-    padding-bottom: 30px; }
-  .page-template .content section.full-width-title header h2 {
-    font-size: 1em; }
-  .page-template .content .full-width-title h3 {
-    font-size: 2.7em;
-    border-bottom: 2px solid #fff;
-    line-height: 1.15em; }
-  .page-template .content section.delife {
-    border-top: 1px solid #232323; }
-  .page-template-page-studio .content section.delife {
-    border-top: none; }
-  .studio-link {
-    float: left;
-    margin: 30px 0; }
-  .studio-link .icon-ArrowRight {
-    float: left;
-    font-size: 38px;
-    margin-right: 25px;
-    margin-left: 0px;
-    -moz-transition: margin-left 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    -o-transition: margin-left 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    -webkit-transition: margin-left 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    transition: margin-left 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1); }
-  .page-template .content .studio-link p {
-    float: left;
-    margin: 0;
-    padding: 0;
-    line-height: 1.5; }
-  .page-template .content .studio-link a:hover .icon-ArrowRight {
-    margin-left: 10px;
-    margin-right: 15px;
-    -moz-transition: margin-left 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    -o-transition: margin-left 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    -webkit-transition: margin-left 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1);
-    transition: margin-left 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, margin-right 0.4s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1); }
+
   /*********************
 SERVICES STYLES
 *********************/
-  .service-info-inner h2 {
-    font-size: 1.95em;
-    text-align: left; }
-  .footer-contact-wrap a.form-link {
-    margin: 0; }
-  .content section.client-references h2 {
-    margin: 35px auto;
-    font-size: 1.95em; }
-  .service-info-inner .service-info-content {
-    width: 260px;
-    max-width: 600px; }
-  .service-info-inner .service-info-feature-img {
-    width: 300px;
-    height: auto; }
-  .service-info-content p {
-    font-size: 12px;
-    line-height: 1.4em; }
-  .single-services .video-bg-section {
-    height: 380px; }
-  .single-services #hero-bg-vid {
-    width: 100%;
-    right: auto;
-    left: 0; }
+
   .page-template-page-contact #hero-bg-vid {
     width: 50%;
     right: 0;
     left: inherit; }
-  .single-services .vidspace {
-    padding-right: 90px; }
-  .single-services .header-tagline {
-    float: left;
-    margin: 14px 0;
-    max-width: 390px; }
-  .single-services .header-main {
-    max-width: inherit;
-    margin: inherit; }
-  .single-services .service-cta-wrapper-mobile .client-grid {
-    max-width: 360px;
-    margin: 0; }
-  .single-services .service-cta-wrapper-mobile {
-    padding: 12px 0 0 0; }
-  .single-services .header-tagline-wrap .service-cta-wrapper-mobile h4 {
-    font-size: 14px;
-    padding-bottom: 0; }
-  .single-services .service-showreel-wrapper {
-    width: 290px;
-    height: 470px; }
-  .single-services .service-digital-wrapper {
-    width: 280px;
-    height: 360px; }
-  .single-services .service-digital-wrapper .service-digital-inner {
-    width: 100%;
-    height: 100%;
-    position: relative; }
-  .single-services .service-digital-wrapper .service-digital-inner .service-digital-image {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: none; }
-  .single-services .service-digital-wrapper .service-digital-inner .service-digital-image img {
-    width: 100%;
-    height: auto; }
-  .single-services .service-digital-wrapper .service-digital-inner .service-digital-phone {
-    position: absolute;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    top: 50%; }
-  .single-services .service-digital-wrapper .service-digital-inner .phone-wrap {
-    height: 388px;
-    width: 200px;
-    padding: 51px 19px 52px 19px; }
-  .single-services .header-tagline-wrap {
-    padding: 0 0 0 15px;
-    max-width: 395px;
-    text-align: inherit;
-    left: 0;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%); }
-  .single-services .service-digital-viewmore {
-    position: absolute;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    bottom: -44px; }
-  .single-services .header-tagline-wrap .cta-btn-form {
-    margin-top: 5px; }
-  .single-services .header-tagline-wrap h4 {
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 1.4em;
-    padding: 0 0 15px 0;
-    margin: 0; }
-  .single-services .header-tagline-wrap h1 {
-    font-weight: 600;
-    font-size: 1.6em;
-    margin: 0;
-    padding: 0;
-    line-height: 1.2em; }
-  .single-services .header-tagline-wrap p {
-    font-size: 0.9em;
-    line-height: 1.3em;
-    margin: 0;
-    opacity: 1; }
-  .sub-service li {
-    padding: 2px 0;
-    font-size: 0.8em;
-    line-height: 1.3em;
-    text-indent: -25px;
-    padding-left: 25px; }
-  .single-services .header-tagline-wrap a.video-link {
-    display: block; }
-  .service-icon-wrap {
-    width: 14.2857142857%;
-    float: left;
-    text-align: right; }
-  .services-grid {
-    padding: 50px 15px; }
-  .services-grid .service-icon-wrap span {
-    width: 100%;
-    font-size: 35px; }
-  .service-icon-wrap h2.service-number {
-    padding: 0;
-    margin: 0 0 15px 0;
-    line-height: 1.1;
-    font-size: 1.95em; }
-  .service-content-wrap {
-    width: 85.7142857%;
-    float: left;
-    padding-left: 30px;
-    text-align: left; }
-  .service-content-wrap h2 {
-    padding: 0;
-    margin: 0 0 15px 0;
-    line-height: 1.1;
-    font-size: 1.95em; }
-  .service-preview .div-line-wrap {
-    float: left;
-    width: 100%;
-    padding: 0px 0 15px 0; }
-  .services-grid .service-icon-wrap span.service-icon-corporate-icon {
-    font-size: 42px; }
-  .services-grid .service-icon-wrap span.service-icon-branded-icon {
-    font-size: 55px; }
-  .cta-header {
-    position: fixed;
-    top: 0;
-    right: 90px;
-    width: 100%;
-    height: 90px;
-    background: #000000;
-    z-index: 10000;
-    -moz-transition: z-index 0.6s ease-in-out, opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    -o-transition: z-index 0.6s ease-in-out, opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    -webkit-transition: z-index 0.6s ease-in-out, opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    transition: z-index 0.6s ease-in-out, opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    opacity: 1;
-    -moz-opacity: 1;
-    -khtml-opacity: 1;
-    filter: alpha(opacity=1); }
-  .scrolltop .cta-header {
-    opacity: 0;
-    -moz-opacity: 0;
-    -khtml-opacity: 0;
-    filter: alpha(opacity=0);
-    top: -90px;
-    -moz-transition: opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    -o-transition: opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    -webkit-transition: opacity 0.4s ease-in-out, top 0.4s ease-in-out;
-    transition: opacity 0.4s ease-in-out, top 0.4s ease-in-out; }
-  .cta-header-title span.m-hidden {
-    display: none; }
-  .open .cta-header {
-    z-index: 50;
-    -moz-transition: z-index 0.4s ease-in-out;
-    -o-transition: z-index 0.4s ease-in-out;
-    -webkit-transition: z-index 0.4s ease-in-out;
-    transition: z-index 0.4s ease-in-out; }
-  .cta-header-title {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    padding: 20px 0 20px 120px; }
-  .cta-header-title .cta-btn {
-    margin-left: 25px;
-    font-size: inherit;
-    width: 250px;
-    padding: 15px 10px 15px 20px; }
-  .cta-header-title .cta-btn .icon-ArrowRightClean {
-    top: 17px; }
-  .cta-header .cta-header-logo .icon-logo {
-    opacity: 1;
-    -moz-opacity: 1;
-    -khtml-opacity: 1;
-    filter: alpha(opacity=1);
-    width: 58px;
-    height: 44px;
-    top: 26px; }
-  .cta-header .cta-header-logo .icon-logo img {
-    width: 50px;
-    height: auto; }
-  .contact-form-header h2 {
-    line-height: 1.1;
-    font-size: 1.95em; }
-  .scrolltop .mobile-intro .logotype {
-    opacity: 0;
-    -moz-opacity: 0;
-    -khtml-opacity: 0;
-    filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-    transition: opacity 0.35s; }
-  .single-services .feature-video .thumbnail-body {
-    height: 140px; }
-  .single-services .feature-video .thumbnail-wrap {
-    width: 256px;
-    height: 380px;
-    position: absolute;
-    top: 44px;
-    left: 40px;
-    z-index: 50; }
-  .single-services .feature-video .thumbnail-wrap .play-icon .icon-PlayIcon {
-    font-size: 50px;
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
-  .single-services .vid-overlay {
-    position: absolute;
-    background: #000;
-    width: 100%;
-    height: 100%;
-    opacity: 0.1;
-    -moz-opacity: 0.1;
-    -khtml-opacity: 0.1;
-    filter: alpha(opacity=0.1);
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
-  .single-services .feature-video .feature-video .thumbnail-cover:focus .vid-overlay, .feature-video .thumbnail-cover:hover .vid-overlay {
-    opacity: 0.7;
-    -moz-opacity: 0.7;
-    -khtml-opacity: 0.7;
-    filter: alpha(opacity=0.7);
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
-  .single-services .feature-video .thumbnail-cover:focus .icon-PlayIcon, .feature-video .thumbnail-cover:hover .icon-PlayIcon {
-    opacity: 1;
-    -moz-opacity: 1;
-    -khtml-opacity: 1;
-    filter: alpha(opacity=1);
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
+
   /*********************
 PROJECT PAGE STYLES
 *********************/
@@ -3061,19 +2409,10 @@ PROJECT PAGE STYLES
     font-size: 3.2em;
     font-weight: bold;
     line-height: 1.1; }
-  .intro-body-copy p, .service-content-wrap p {
+  .intro-body-copy p {
     margin-top: 0;
     font-size: 0.9em;
     line-height: 1.3em; }
-  .content .full-width-title h3 {
-    font-size: 1.4em;
-    font-family: "ApercuBold", Helvetica, Arial, sans-serif;
-    margin: 0;
-    line-height: 1.15em; }
-  .content .full-width-title p {
-    font-size: 0.6em;
-    line-height: 1.4em;
-    margin: 25px 0 0 0; }
   .intro-body-copy h4.overview-title {
     margin: 0 0 26px 0;
     line-height: 1; }
@@ -3088,67 +2427,11 @@ PROJECT PAGE STYLES
     float: left;
     width: 100%;
     padding: 10px 0 25px 0; }
-  .project-call-to-action h3 {
-    font-size: 1.4em;
-    line-height: 1.2em;
-    margin: 0; }
-  .project-call-to-action p {
-    font-size: 0.9em;
-    line-height: 1.2em; }
-  .project-intro .feature-video {
-    height: 50%; }
-  .single-directors .intro-copy-wrap {
-    height: 50%; }
-  .single-directors .intro-copy h2 {
-    font-size: 2.4em;
-    margin: 10px 0px; }
-  .single-directors .thumbnail-wrap .play-icon .icon-PlayIcon {
-    font-size: 70px; }
-  .single-directors .feature-video .thumbnail-wrap h4 {
-    padding: 10px 0 0 0;
-    margin: 0;
-    font-size: 1.2em; }
-  .phone-wrap {
-    height: 407px;
-    width: 210px;
-    float: left;
-    background: url("/wp-content/themes/derepublica/library/images/devices/iphoneX2.png") no-repeat;
-    background-size: 100%;
-    padding: 56px 22px 57px 22px;
-    display: block;
-    margin: 0 5px; }
   .full-width-devices .d-all {
     width: 660px;
     margin: 50px auto;
     float: none; }
-  .perspective-iphone .device-wrap {
-    float: left;
-    width: 100%;
-    height: 560px;
-    position: relative;
-    background: #fff; }
-  .perspective-iphone .device-wrap .viewport {
-    width: 380px;
-    height: 244px;
-    margin: 0 auto; }
-  .perspective-iphone .device-wrap .viewport-wrap {
-    width: 100%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    top: 50%;
-    position: absolute;
-    left: 0; }
-  .perspective-iphone .device-wrap .device-overlay {
-    background: url("/wp-content/themes/derepublica/library/images/devices/iphone-perspectiveX2.png") no-repeat;
-    width: 100%;
-    height: 560px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 5;
-    background-position: center center;
-    background-size: 840px 730px; }
+
   /*********************
 SIDEBAR NAV STYLES
 *********************/
@@ -3184,23 +2467,7 @@ SIDEBAR NAV STYLES
     width: auto;
     float: left;
     margin-right: 20px; }
-  .single-services .arrow-push {
-    display: block; }
-  .single-services .icon-logo {
-    display: block; }
-  .logotype {
-    opacity: 1;
-    -moz-opacity: 1;
-    -khtml-opacity: 1;
-    filter: alpha(opacity=1); }
-  .side-nav .logotype .svg-icon-DeRepublicaVertical, .open .side-nav .logotype .svg-icon-DeRepublicaVertical {
-    opacity: 1;
-    -moz-opacity: 1;
-    -khtml-opacity: 1;
-    filter: alpha(opacity=1);
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
-  .side-nav .stroke, .side-nav .status-text {
+    .side-nav .status-text {
     opacity: 1;
     -moz-opacity: 1;
     -khtml-opacity: 1;
@@ -3224,8 +2491,6 @@ SIDEBAR NAV STYLES
     -ms-transform-origin: 0 0;
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0; }
-  .loading .side-nav, .loading .nav-btn-wrap {
-    right: -90px; }
   .nav-btn-wrap {
     padding: 30px;
     right: 0px;
@@ -3233,7 +2498,7 @@ SIDEBAR NAV STYLES
     -o-transition: right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
     -webkit-transition: right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
     transition: right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s; }
-  .archive .side-nav, .single .side-nav, .nav-btn-wrap {
+  .nav-btn-wrap {
     right: 0px; }
   .side-nav {
     border-left: 1px solid #131313;
@@ -3243,16 +2508,6 @@ SIDEBAR NAV STYLES
     height: 100%;
     top: 0;
     right: 0;
-    z-index: 50;
-    -moz-transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
-    -o-transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
-    -webkit-transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
-    transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s; }
-  .loading .side-nav {
-    width: 0px;
-    height: 100%;
-    top: 0;
-    right: -90px;
     z-index: 50;
     -moz-transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
     -o-transition: width 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, right 0.4s cubic-bezier(0.8, 0, 0.38, 1) 0.2s, transform 0.5s cubic-bezier(0.28, 0, 0.55, 0.82), opacity 0.7s linear 0.9s;
@@ -3270,21 +2525,12 @@ SIDEBAR NAV STYLES
     -o-transition: width 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.7s linear 0.8s;
     -webkit-transition: width 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.7s linear 0.8s;
     transition: width 0.8s cubic-bezier(0.7, 0, 0.034, 1) 0ms, transform 3s cubic-bezier(0.32, 0.96, 0.75, 1), opacity 0.7s linear 0.8s; }
-  .vidspace .logotype .svg-icon-DeRepublicaVertical {
-    opacity: 0;
-    -moz-opacity: 0;
-    -khtml-opacity: 0;
-    filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.55s, -webkit-transform 0.35s;
-    transition: opacity 0.55s; }
   .arrow-push {
     left: 30px;
     bottom: 30px; }
   .bottom .footer-wrap span.icon-ArrowUp {
     bottom: 30px;
     left: 30px; }
-  .single .mobile-intro .logotype {
-    display: none; }
   .footer-contact-wrap {
     text-align: left;
     max-width: 600px;
@@ -3345,24 +2591,6 @@ THUMBNAIL STYLES
     padding: 30px;
     color: #fff;
     z-index: 2; }
-  .single-services .thumbnail-category p {
-    font-size: 14px;
-    margin: 0 0 5px 0;
-    padding: 0; }
-  .single-services .thumbnail-title h2 {
-    padding: 0;
-    margin: 0;
-    line-height: 1.1;
-    font-size: 2.2em; }
-  .single-services .thumbnail-body {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    padding: 25px;
-    color: #fff;
-    z-index: 2; }
-  .post-type-archive-directors .director-reel .thumbnail-wrap .thumbnail-cover .thumbnail-body-inner {
-    height: 350px; }
   .delife .thumbnail-img-place {
     height: 360px; }
   .delife .thumbnail-item {
@@ -3381,26 +2609,15 @@ THUMBNAIL STYLES
 NAVIGATION STYLES
 *********************/
   .nav {
-    border: 0;
-    /* end .menu ul li */
-    /* highlight current page */
-    /* end current highlighters */ }
+    border: 0;}
     .nav ul {
       background: #000000;
       margin-top: 0; }
     .nav li {
       float: left;
-      position: relative;
-      /*
-		plan your menus and drop-downs wisely.
-		*/
-      /* showing sub-menus */ }
+      position: relative;}
       .nav li a {
-        border-bottom: 0;
-        /*
-			you can use hover styles here even though this size
-			has the possibility of being a mobile device.
-			*/ }
+        border-bottom: 0;}
         .nav li a:hover, .nav li a:focus {
           color: #fff;
           text-decoration: underline; }
@@ -3411,15 +2628,9 @@ NAVIGATION STYLES
         border-top: 0;
         position: absolute;
         visibility: hidden;
-        z-index: 8999;
-        /* highlight sub-menu current page */ }
+        z-index: 8999;}
         .nav li ul.sub-menu li,
-        .nav li ul.children li {
-          /*
-				if you need to go deeper, go nuts
-				just remember deeper menus suck
-				for usability. k, bai.
-				*/ }
+        .nav li ul.children li {}
           .nav li ul.sub-menu li a,
           .nav li ul.children li a {
             padding-left: 10px;
@@ -3437,33 +2648,9 @@ NAVIGATION STYLES
       .nav li:hover > ul {
         top: auto;
         visibility: visible; }
-  /* end .nav */
-  /*********************
-SIDEBARS & ASIDES
-*********************/
-  .sidebar {
-    margin-top: 2.2em; }
-  .widgettitle {
-    border-bottom: 2px solid #444;
-    margin-bottom: 0.75em; }
-  .widget {
-    padding: 0 10px;
-    margin: 2.2em 0; }
-    .widget ul li {
-      margin-bottom: 0.75em;
-      /* deep nesting */ }
-      .widget ul li ul {
-        margin-top: 0.75em;
-        padding-left: 1em; } }
-
+}
 @media only screen and (min-width: 960px) {
-  /******************************************************************
-Site Name:
-Author:
 
-Stylesheet: 960 Stylesheet
-
-******************************************************************/
   /*********************
 SERVICES STYLES
 *********************/
@@ -3524,30 +2711,11 @@ SERVICES STYLES
 
 /*********************
 DESKTOP
-This is the average viewing window. So Desktops, Laptops, and
-in general anyone not viewing on a mobile device. Here's where
-you can add resource intensive styles.
 *********************/
 @media only screen and (min-width: 1200px) {
-  /******************************************************************
-Site Name:
-Author:
-
-Stylesheet: Desktop Stylsheet
-
-This is the desktop size. It's larger than an iPad so it will only
-be seen on the Desktop.
-
-******************************************************************/
   .wrap {
     width: 1040px; }
-  .clients span {
-    width: 180px;
-    padding: 0px;
-    text-align: center; }
-  .clients .client-grid img {
-    width: 180px;
-    height: 180px; }
+
   /*********************
 SERVICES STYLES
 *********************/
@@ -3642,138 +2810,22 @@ THUMBNAIL STYLES
     margin: 0 auto; }
   .single-directors .intro-copy h2 {
     font-size: 2.8em; }
-  .phone-wrap {
-    height: 543px;
-    width: 280px;
-    float: left;
-    background: url("/wp-content/themes/derepublica/library/images/devices/iphoneX2.png") no-repeat;
-    background-size: 100%;
-    padding: 75px 30px 76px 30px;
-    display: block; }
   .full-width-devices .d-all {
     width: 870px;
     margin: 90px auto;
     float: none; }
-  .perspective-iphone .device-wrap {
-    float: left;
-    width: 100%;
-    height: 630px;
-    position: relative;
-    background: #fff; }
-  .perspective-iphone .device-wrap .viewport {
-    width: 380px;
-    height: 244px;
-    margin: 0 auto; }
-  .perspective-iphone .device-wrap .viewport-wrap {
-    width: 100%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    top: 50%;
-    position: absolute;
-    left: 0; }
-  .perspective-iphone .device-wrap .device-overlay {
-    background: url("/wp-content/themes/derepublica/library/images/devices/iphone-perspectiveX2.png") no-repeat;
-    width: 100%;
-    height: 630px;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 5;
-    background-position: center center;
-    background-size: 840px 730px; } }
-
+}
 /*********************
 LARGE VIEWING SIZE
-This is for the larger monitors and possibly full screen viewers.
 *********************/
 @media only screen and (min-width: 1240px) {
-  /******************************************************************
-Site Name: 
-Author: 
-
-Stylesheet: Super Large Monitor Stylesheet
-
-You can add some advanced styles here if you like. This kicks in
-on larger screens.
-
-******************************************************************/
-  .clients span {
-    width: 200px;
-    padding: 0px;
-    text-align: center; }
-  .clients .client-grid img {
-    width: 200px;
-    height: 200px; }
   .video-bg-section {
     height: 698px; } }
 
-/*********************
-RETINA (2x RESOLUTION DEVICES)
-This applies to the retina iPhone (4s) and iPad (2,3) along with
-other displays with a 2x resolution. You can also create a media
-query for retina AND a certain size if you want. Go Nuts.
-*********************/
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
-  /******************************************************************
-Site Name: 
-Author: 
+ }
 
-Stylesheet: Retina Screens & Devices Stylesheet
-
-When handling retina screens you need to make adjustments, especially
-if you're not using font icons. Here you can add them in one neat
-place.
-
-******************************************************************/
-  /* 
-
-EXAMPLE 
-Let's say you have an image and you need to make sure it looks ok
-on retina screens. Let's say we have an icon which dimension are
-24px x 24px. In your regular stylesheets, it would look something
-like this:
-
-.icon {
-	width: 24px;
-	height: 24px;
-	background: url(img/test.png) no-repeat;
-}
-
-For retina screens, we have to make some adjustments, so that image
-doesn't look blurry. So, taking into account the image above and the
-dimensions, this is what we would put in our retina stylesheet:
-
-.icon {
-	background: url(img/test@2x.png) no-repeat;
-	background-size: 24px 24px;
-}
-
-So, you would create the same icon, but at double the resolution, meaning 
-it would be 48px x 48px. You'd name it the same, but with a @2x at the end
-(this is pretty standard practice). Set the background image so it matches
-the original dimensions and you are good to go. 
-
-*/ }
-
-/*********************
-PRINT STYLESHEET
-Feel free to customize this. Remember to add things that won't make
-sense to print at the bottom. Things like nav, ads, and forms should
-be set to display none.
-*********************/
 @media print {
-  /******************************************************************
-Site Name:
-Author:
-
-Stylesheet: Print Stylesheet
-
-This is the print stylesheet. There's probably not a lot
-of reasons to edit this stylesheet. If you want to
-though, go for it.
-
-******************************************************************/
   * {
     background: transparent !important;
     color: black !important;
@@ -3813,4 +2865,7 @@ though, go for it.
   .wp-prev-next,
   .respond-form,
   nav {
-    display: none; } }
+    display: none; }
+}
+
+
