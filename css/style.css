@@ -1624,6 +1624,9 @@ SIDEBAR NAV STYLES
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   top: 50%;
+    /*временное решение бага перекрытия TblKBA{ */
+    padding-top: 15%;
+    /*} временное решение бага перекрытия*/
   padding-right: 30px;
   visibility: hidden; }
 
